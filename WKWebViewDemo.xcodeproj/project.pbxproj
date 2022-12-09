@@ -445,6 +445,7 @@
 				DEVELOPMENT_TEAM = 5CTUTX5MFE;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = WKWebViewDemo/Info.plist;
+				INFOPLIST_KEY_NSLocationWhenInUseUsageDescription = "使用位置";
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
@@ -472,6 +473,7 @@
 				DEVELOPMENT_TEAM = 5CTUTX5MFE;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = WKWebViewDemo/Info.plist;
+				INFOPLIST_KEY_NSLocationWhenInUseUsageDescription = "使用位置";
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
